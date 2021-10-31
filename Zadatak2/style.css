@@ -1,0 +1,19 @@
+header
+ {
+	display: block;
+	width: 100%;
+}
+.news
+{
+	background-image: url("images/news.jpg");
+    height: 375px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+ul {
+	list-style-type: none;
+	background-color:#06283f;
+}
+li{display: inline;}
